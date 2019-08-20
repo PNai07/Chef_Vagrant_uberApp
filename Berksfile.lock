@@ -1,0 +1,7 @@
+DEPENDENCIES
+  nginx
+    git: https://github.com/PNai07/chef_Nginx_Cookbook_uberApp.git
+    revision: e7eafc48f7ae81fc16b65f39e09ab280afb1317e
+
+GRAPH
+  nginx (0.1.0)
